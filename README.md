@@ -1,7 +1,7 @@
 # Plane of the Day - Android App
 
 ## Overview
-**Plane of the Day** is an Android application developed using Kotlin and Jetpack Compose. The app features a new plane for each day, showcasing an image and detailed description. It is perfect for aviation enthusiasts or anyone interested in learning more about different planes in an easy and visually appealing way.
+**Plane of the Day** is an Android application developed using Kotlin and Jetpack Compose. The app features a new plane for each day, showcasing an image and detailed description. Users can tap on a plane's card to expand it, revealing more detailed information with a smooth animation. This dynamic feature allows users to interactively discover interesting details about each plane. The app is perfect for aviation enthusiasts or anyone interested in learning more about different planes in an easy and visually appealing way.
 
 ---
 
@@ -14,7 +14,11 @@
 ---
 
 ## Screenshots
-*(Include screenshots of the app here to give users an idea of what the app looks like.)*
+### Main Screen
+![Main Screen](screenshots/screenshot1.png)
+
+### Plane Details
+![Plane Details](screenshots/screenshot2.png)
 
 ---
 
