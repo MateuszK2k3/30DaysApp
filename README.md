@@ -32,4 +32,4 @@
 ### Steps to run the app:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plane-of-the-day.git
+   git clone https://github.com/MateuszK2k3/30DaysApp.git
